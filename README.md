@@ -1,10 +1,19 @@
 # engineering
 
-### web architecture, internals, renderings
-- Addy Osmani, Google Chrome
+people of engineering
 
-### iOS
-- HackingSwift
 
-### staff engineering resources
-- awesome-staff-engineering [x](https://github.com/staffeng42/awesome-staff-plus-engineering?tab=readme-ov-file)
+
+## About
+
+📦 **Project** built with Multi-language.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
+
+---
+
+*Built by [@stussysenik](https://github.com/stussysenik)*
